@@ -50,5 +50,4 @@ Ensures marks must be between 0 and 100
 
 
 
-Catches incorrect numeric input using NumberFormatException
 
